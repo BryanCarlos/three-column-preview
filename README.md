@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/BryanCarlos/three-column-preview)
-- Live Site URL: [Netfily](https://your-live-site-url.com)
+- Live Site URL: [Netfily](https://taupe-cranachan-62269b.netlify.app)
 
 ## My process
 

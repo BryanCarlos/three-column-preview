@@ -180,7 +180,7 @@ h1 {
     }
 
     .column {
-        height: 70%;
+        height: 600px;
     }
 
     .sedan {
@@ -196,11 +196,11 @@ h1 {
     }
 
     h1 {
-        font-size: 40px;
+        font-size: 60px;
     }
 
     .paragraph {
-        font-size: 18px;
+        font-size: 25px;
     }
 
     .buttonLearn {
@@ -210,7 +210,7 @@ h1 {
     }
 
     .column-content img {
-        width: 80px;
-        height: 45px;
+        width: 120px;
+        height: 80px;
     }
 }
